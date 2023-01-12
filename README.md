@@ -8,7 +8,15 @@
 - Miui dialer
 - Higher fps unlocked in supported games
 - Unlimited storage for Google Photos
+
+### Notes:
 - CTS True by default for non-ROOT users, ROOT users select Google Play services in denylist, delete playstore data then reboot phone. 
+- Enhanced keyboard working with default DPI only
+
+### Credits:
+- [Nato](https://t.me/Nyarnathotep)
+- [Leo](https://t.me/leowozzzzz)
+- [Camilo](https://t.me/Ca_milo99)
 
 ### About installation
 - Reboot into recovery
@@ -18,5 +26,5 @@
 - Enjoy
 
 ### Download
-- [Gdrive](https://drive.google.com/file/d/1OLWiP7gCu7zj8NosW2bDzvBUmWH3Hq3v/view?usp=sharing)
+- [Gdrive link](https://drive.google.com/file/d/1OLWiP7gCu7zj8NosW2bDzvBUmWH3Hq3v/view?usp=sharing)
 
