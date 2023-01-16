@@ -2,6 +2,10 @@
 ![image](https://user-images.githubusercontent.com/83476983/211684816-6f74718c-d284-437a-9e09-1a6bc72e46c5.png)
 
 ### Changelog:
+##### v2:
+- Fixed boot, magisk delay and other issues
+- Added options for status bar adjustment
+##### v1:
 - Based on EEA 13.0.4.0
 - Added options to customize ROM
 - System apps updated
@@ -26,5 +30,9 @@
 - Enjoy
 
 ### Download
-- [Gdrive link](https://drive.google.com/file/d/1OLWiP7gCu7zj8NosW2bDzvBUmWH3Hq3v/view?usp=sharing)
+##### v2:
+- [Gdrive link](https://drive.google.com/file/d/17Tr_IcGPkcJ9c9r4FP6D-qSOMLxH-H9S/view?usp=sharing)
+- [Alternative link](https://square-fire-5bea.fabriciosalas123.workers.dev/0:/MIUISR_POCOX3NFC_13.0.4.0_160123.zip)
+##### v1:
+- [GDrive link](https://drive.google.com/file/d/1OLWiP7gCu7zj8NosW2bDzvBUmWH3Hq3v/view?usp=sharing)
 
