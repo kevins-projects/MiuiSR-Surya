@@ -14,6 +14,7 @@
 - Unlimited storage for Google Photos
 
 ### Notes:
+- Call recording fix: [Download](https://t.me/MiuiSR_Surya/7241)
 - CTS True by default for non-ROOT users, ROOT users select Google Play services in denylist, delete playstore data then reboot phone. 
 - Enhanced keyboard working with default DPI only
 
